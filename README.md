@@ -20,4 +20,4 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/lucas-teodoro-863b9a208)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lucas-teodoro-863b9a208/)
