@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 - 👨‍💻 I’m interested in Back-end, Front-end, and Full Stack Development.
-- 🌱 I’m currently learning [specific technologies or frameworks you're studying].
+- 🌱 I’m currently learning [Analysis in systems development].
 
 ## 🛠️ Technologies & Tools
 ### Languages
